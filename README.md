@@ -1,16 +1,14 @@
-# 👋 Olá, eu sou a Andrea Rosita  
+# Página Exemplo (HTML + CSS)
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
-💻 Interessada em **programação, desenvolvimento web e banco de dados**  
-🚀 Foco em aprender continuamente e aplicar em projetos práticos  
+## 🎯 Objetivo
+Este repositório contém uma página simples criada para praticar conceitos básicos de **HTML** e **CSS**.  
+Estou no início da minha jornada e ainda não tenho projetos autorais prontos; este exercício faz parte do meu aprendizado para, em breve, criar algo próprio.
 
-## 🔧 Tecnologias que estou aprendendo
-- Lógica de Programação  
-- HTML5 & CSS3  
-- Git & GitHub  
+## 🛠️ Tecnologias utilizadas
+- HTML5
+- CSS3
 
-## 📌 Projetos
-No momento estou iniciando minha trajetória e ainda não tenho projetos publicados aqui.  
-Estou estudando e em breve pretendo compartilhar meus primeiros projetos práticos. 🚀  
+## ▶️ Como executar
+Baixe/clique em `index.html` e abra no navegador.
 
-📫 **LinkedIn:** https://www.linkedin.com/in/andrea-rosita-94231b380/
+## 📁 Estrutura do projeto
