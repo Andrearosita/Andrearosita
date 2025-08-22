@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Olá, eu sou a Andre Rosita
 
-<!--
-**Andrearosita/Andrearosita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💻 Interessada em **programação, desenvolvimento web e banco de dados**  
+🚀 Foco em aprender continuamente e aplicar em projetos práticos
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias que estou aprendendo
+- Lógica de Programação
+- HTML5 & CSS3
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projetos
+- [Página Pessoal (HTML + CSS)](https://github.com/SEU-USUARIO/pagina-pessoal) <!-- substitua quando criar -->
+- (Adicione mais conforme for criando)
+
+📫 **LinkedIn:**[ https://www.linkedin.com/in/SEU-LINK-AQUI/](https://www.linkedin.com/in/andrea-rosita-94231b380/)
