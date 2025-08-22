@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou a Andre Rosita
+# 👋 Olá, eu sou a Andrea Rosita
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💻 Interessada em **programação, desenvolvimento web e banco de dados**  
