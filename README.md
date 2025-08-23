@@ -1,14 +1,20 @@
-# Página Exemplo (HTML + CSS)
+# Meu Primeiro Site
+
+Este é um projeto simples de site criado como parte do meu aprendizado em HTML e CSS.
 
 ## 🎯 Objetivo
-Este repositório contém uma página simples criada para praticar conceitos básicos de **HTML** e **CSS**.  
-Estou no início da minha jornada e ainda não tenho projetos autorais prontos; este exercício faz parte do meu aprendizado para, em breve, criar algo próprio.
+Praticar os conceitos básicos de estruturação de páginas na web usando HTML e estilização com CSS.
 
-## 🛠️ Tecnologias utilizadas
+## 🛠 Tecnologias utilizadas
 - HTML5
 - CSS3
 
-## ▶️ Como executar
-Baixe/clique em `index.html` e abra no navegador.
+## 📌 Funcionalidades
+- Estrutura básica de página com cabeçalho, conteúdo e rodapé.
+- Personalização de cores e fontes.
 
-## 📁 Estrutura do projeto
+## 🚀 Como visualizar
+Você pode abrir o arquivo `index.html` em qualquer navegador para visualizar o site.
+
+## 📄 Licença
+Este projeto é de uso livre para fins de estudo.
